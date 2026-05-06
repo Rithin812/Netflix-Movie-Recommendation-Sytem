@@ -1,2 +1,2 @@
 # Netflix-Movie-Recommendation-Sytem
-Netflix-style Movie Recommendation System that suggests similar movies based on content similarity techniques
+Netflix-style Movie Recommendation System using Machine Learning, Cosine Similarity, and Streamlit with an interactive UI and dynamic movie suggestions.
